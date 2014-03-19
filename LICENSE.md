@@ -1,0 +1,1 @@
+All Rights Reserved TM, (r) & Copyright (c) 2014 by Resorts World Manila

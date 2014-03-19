@@ -1,0 +1,21 @@
+{
+  "name": "RWM.Phoenix",
+  "description": "Resorts World Manila Gaming API",
+  "version": "1.0.4",
+  "keywords": [
+    "rwmanila",
+    "gaming",
+    "casino",
+    "api"
+  ],
+  "main": [
+    "dist/phoenix.js"
+  ],
+  "ignore": [
+    ".*",
+      ""
+  ],
+  "dependencies": {
+    "jquery": ">= 1.9.0"
+  }
+}
